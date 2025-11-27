@@ -233,8 +233,8 @@ def main():
             """
             <table style="width:100%; table-layout: fixed; border:none; border-spacing:0;">
                 <tr style="border:none;">
-                    <td style="border:none;"><a href="https://www.linkedin.com/in/-mahmoudmira-/" target="_blank" style="text-decoration:none;"><img src="https://media.licdn.com/dms/image/v2/D4E03AQE0HNjwxOUZgg/profile-displayphoto-scale_400_400/B4EZiqR70sGwAg-/0/1755203493134?e=1766016000&v=beta&t=tIAA571kHFZ1Tl9V8vCNpAjyrjS7bUsiyyzfJmvBFo8" alt="Mahmoud Mira" style="max-width:100%; border:none; border-radius:85px; height:auto;"></td>
-                    <td style="border:none;"><a href="https://www.linkedin.com/in/farah-bassiony-541930250/" target="_blank" style="text-decoration:none;"><img src="https://media.licdn.com/dms/image/v2/D4D03AQFeMc-wBc6rTQ/profile-displayphoto-shrink_800_800/B4DZXfxDbWGkAc-/0/1743215934761?e=1766016000&v=beta&t=ENPapTCSMacnvE94-B9MW3IJjb97cMx257GvUKZuZzA" alt="Farah Bassiony" style="max-width:100%; border:none; border-radius:85px; height:auto;"></td>
+                    <td style="border:none;"><a href="https://www.linkedin.com/in/-mahmoudmira-/" target="_blank" style="text-decoration:none;"><img src="Members/Mahmoud Mira.jpg" alt="Mahmoud Mira" style="max-width:100%; border:none; border-radius:85px; height:auto;"></td>
+                    <td style="border:none;"><a href="https://www.linkedin.com/in/farah-bassiony-541930250/" target="_blank" style="text-decoration:none;"><img src="Members/Farah Bassiony.jpeg" alt="Farah Bassiony" style="max-width:100%; border:none; border-radius:85px; height:auto;"></td>
                     <td style="border:none;"><a href="https://www.linkedin.com/in/yousef-shaban-003bba33b/" target="_blank" style="text-decoration:none;"><img src="https://media.licdn.com/dms/image/v2/D4D03AQGuEnIK8iXx2Q/profile-displayphoto-shrink_800_800/B4DZOOmWc3HUAg-/0/1733264264577?e=1766016000&v=beta&t=QwGSILAhnF93UAG_lR7_bynMa0QSwsiFJmYF0R1Cmzs" alt="Yousef Shaban" style="max-width:100%; border:none; border-radius:85px; height:auto;"></td>
                 </tr>
                 <tr style="border:none;">
@@ -255,3 +255,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

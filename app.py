@@ -232,7 +232,7 @@ def draw_footer(canvas, doc):
 
 def main():
     st.set_page_config(
-        page_title="Sugarcane Leaf Disease Detection",
+        page_title="CaneGuard AI",
         page_icon="🌱",
         layout="centered",
     )
@@ -447,3 +447,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
